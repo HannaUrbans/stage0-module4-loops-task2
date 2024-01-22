@@ -8,7 +8,7 @@ public class WordsBuilder {
             result = result + chars[i];
             i++;
         }
-        System.out.println(result);
+        System.out.print(result);
     }
     public static void main(String[] args) {
         char[] chars = {'l', 'o', 'o', 'p', 's', ' ', 'a', 'r', 'e', ' ', 'c', 'o', 'o', 'l'};
